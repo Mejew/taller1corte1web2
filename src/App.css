@@ -1,0 +1,34 @@
+/* En tu archivo CSS */
+.btn-oval {
+    border-radius: 40px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.card-title {
+    font-size: xx-large;
+    text-transform: uppercase;
+    text-align: center;
+    
+}
+
+.card-text {
+    font-size: 1.1rem;
+    text-align: justify;
+}
+
+.text-center{
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+    font-size: xx-large;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 3.5rem;
+    color: black;
+}
+.card-cont{
+    font-size: 1.1rem;
+    text-align: center;
+}
+.card{
+    background-color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif ;
+}
